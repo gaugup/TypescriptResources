@@ -9,6 +9,8 @@ Repository for useful material on Typescript programming language and react fram
 #### - [Typescript async and await](https://www.youtube.com/watch?v=V_Kr9OSfDeU)
 
 ### React
+#### - [React lifecycle diagram](https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+#### - [State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 #### - `setState` nuisances
 ##### - [How to Use the setState Callback in React](https://upmostly.com/tutorials/how-to-use-the-setstate-callback-in-react)
 ##### - [Using setState in React components](https://blog.logrocket.com/using-setstate-react-components/#:~:text=calling%20setState()-,render(),directly%20interact%20with%20the%20browser.)
