@@ -1,3 +1,5 @@
+[![Link check](https://github.com/gaugup/TypescriptResources/actions/workflows/linkcheck.yml/badge.svg?branch=master)](https://github.com/gaugup/TypescriptResources/actions/workflows/linkcheck.yml)
+
 # TypescriptResources
 Repository for useful material on Typescript programming language and react framework.
 
